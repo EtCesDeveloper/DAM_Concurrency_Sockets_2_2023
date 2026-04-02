@@ -1,0 +1,124 @@
+{
+  "tests": [
+    {
+      "name": "Test 01 Sin Reservas",
+      "setup": "",
+      "run": "gradle test --tests psp.prac02.restaurante.T01*",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": 3
+    },
+    {
+      "name": "Test 02 Una Reserva",
+      "setup": "",
+      "run": "gradle test --tests psp.prac02.restaurante.T02*",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": 5
+    },
+    {
+      "name": "Test 03 Una Reserva Grande",
+      "setup": "",
+      "run": "gradle test --tests psp.prac02.restaurante.T03*",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": 1
+    },
+    {
+      "name": "Test 04 Dos Reservas",
+      "setup": "",
+      "run": "gradle test --tests psp.prac02.restaurante.T04*",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": 3
+    },
+    {
+      "name": "Test 05 Dos Reservas Una Grande",
+      "setup": "",
+      "run": "gradle test --tests psp.prac02.restaurante.T05*",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": 1
+    },
+    {
+      "name": "Test 06 Una reserva ko 1",
+      "setup": "",
+      "run": "gradle test --tests psp.prac02.restaurante.T06*",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": 1
+    },
+    {
+      "name": "Test 07 Una reserva ko 2",
+      "setup": "",
+      "run": "gradle test --tests psp.prac02.restaurante.T07*",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": 1
+    },
+    {
+      "name": "Test 08 Muchas Reservas Poco Tiempo",
+      "setup": "",
+      "run": "gradle test --tests psp.prac02.restaurante.T08*",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": 3
+    },
+    {
+      "name": "Test 09 Muchas Reservas Con Tiempo",
+      "setup": "",
+      "run": "gradle test --tests psp.prac02.restaurante.T09*",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": 3
+    },
+    {
+      "name": "Test 10 Muchas Reservas Orden",
+      "setup": "",
+      "run": "gradle test --tests psp.prac02.restaurante.T10*",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": 3
+    },
+    {
+      "name": "Test 11 Restaurante Lleno",
+      "setup": "",
+      "run": "gradle test --tests psp.prac02.restaurante.T11*",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": 1
+    },
+    {
+      "name": "Debug",
+      "setup": "",
+      "run": "gradle --debug test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": null
+    }
+  ]
+}

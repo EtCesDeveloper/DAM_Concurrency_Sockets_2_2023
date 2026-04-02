@@ -1,0 +1,14 @@
+17:30:33.448027500		Puerta 0 abierta
+17:30:33.448027500		Puerta 1 abierta
+17:30:33.458029200		Puerta 0 recibiendo a para 3
+17:30:33.459029900		Puerta 0 recibiendo b para 3
+17:30:33.460029200		Puerta 0 recibiendo c para 3
+17:30:33.461030100		Puerta 0 recibiendo d para 3
+17:30:33.462030100		Puerta 0 recibiendo e para 3
+17:30:33.462030100		Puerta 0 recibiendo f para 3
+17:30:33.463031		Puerta 0 recibiendo g para 3
+17:30:33.464030700		Puerta 0 recibiendo h para 3
+17:30:33.465030		Puerta 0 recibiendo i para 3
+17:30:33.465030		Puerta 0 recibiendo j para 3
+17:30:53.464123100		Puerta 0 cerrada
+17:30:53.464123100		Puerta 1 cerrada

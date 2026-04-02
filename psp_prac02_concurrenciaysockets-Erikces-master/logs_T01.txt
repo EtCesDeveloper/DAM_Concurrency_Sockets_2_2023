@@ -1,0 +1,6 @@
+17:30:23.300457900		Puerta 0 abierta
+17:30:23.301457		Puerta 1 abierta
+17:30:23.301457		Puerta 2 abierta
+17:30:33.387489400		Puerta 0 cerrada
+17:30:33.387489400		Puerta 1 cerrada
+17:30:33.387489400		Puerta 2 cerrada

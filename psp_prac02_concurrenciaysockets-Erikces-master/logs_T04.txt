@@ -1,0 +1,4 @@
+17:30:53.519031700		Puerta 0 abierta
+17:30:53.521031800		Puerta 0 recibiendo Pepe para 3
+17:30:53.521031800		Puerta 0 recibiendo Ana para 5
+17:30:58.531170500		Puerta 0 cerrada

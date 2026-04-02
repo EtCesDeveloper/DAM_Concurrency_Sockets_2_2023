@@ -1,0 +1,2 @@
+17:31:38.708963800		Puerta 0 abierta
+17:31:38.716964800		Puerta 0 cerrada

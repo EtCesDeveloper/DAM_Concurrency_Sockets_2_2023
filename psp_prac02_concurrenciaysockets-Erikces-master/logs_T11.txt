@@ -1,0 +1,9 @@
+17:31:08.603434700		Puerta 0 abierta
+17:31:08.604434900		Puerta 1 abierta
+17:31:08.605435100		Puerta 0 recibiendo a para 5
+17:31:08.606435400		Puerta 0 recibiendo b para 5
+17:31:08.606435400		Puerta 0 recibiendo c para 5
+17:31:08.607435700		Puerta 0 recibiendo d para 5
+17:31:08.607435700		Puerta 0 recibiendo e para 5
+17:31:18.621429500		Puerta 0 cerrada
+17:31:18.621429500		Puerta 1 cerrada

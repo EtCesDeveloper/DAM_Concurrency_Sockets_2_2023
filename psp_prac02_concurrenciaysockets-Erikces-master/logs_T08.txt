@@ -1,0 +1,26 @@
+17:30:58.558169100		Puerta 0 abierta
+17:30:58.558169100		Puerta 1 abierta
+17:30:58.558169100		Puerta 2 abierta
+17:30:58.558169100		Puerta 3 abierta
+17:30:58.559168400		Puerta 4 abierta
+17:30:58.559168400		Puerta 5 abierta
+17:30:58.559168400		Puerta 6 abierta
+17:30:58.559168400		Puerta 7 abierta
+17:30:58.559168400		Puerta 8 abierta
+17:30:58.559168400		Puerta 9 abierta
+17:30:58.560169200		Puerta 0 recibiendo a para 3
+17:30:58.561168800		Puerta 0 recibiendo b para 3
+17:30:58.561168800		Puerta 0 recibiendo c para 3
+17:30:58.561168800		Puerta 0 recibiendo d para 3
+17:30:58.562169		Puerta 0 recibiendo e para 3
+17:30:58.562169		Puerta 0 recibiendo f para 3
+17:31:08.575428200		Puerta 0 cerrada
+17:31:08.575428200		Puerta 1 cerrada
+17:31:08.578428900		Puerta 2 cerrada
+17:31:08.578428900		Puerta 3 cerrada
+17:31:08.578428900		Puerta 4 cerrada
+17:31:08.578428900		Puerta 5 cerrada
+17:31:08.578428900		Puerta 6 cerrada
+17:31:08.578428900		Puerta 7 cerrada
+17:31:08.578428900		Puerta 8 cerrada
+17:31:08.578428900		Puerta 9 cerrada

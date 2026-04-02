@@ -1,0 +1,91 @@
+Abriendo puertas...
+00:26:32.198303300		Puertas Abiertas
+
+Abriendo salones...
+Salones Abiertos
+Agenda [reservas=[]]
+Salon 0: 0/10 []
+
+Salon 0: 5/10 [Ana para 5(5)]
+Agenda [reservas=[a para 3(5), b para 3(5), c para 3(5), d para 3(5), e para 3(5), f para 3(5), g para 3(5), h para 3(5), i para 3(5), j para 3(5)]]
+
+Agenda [reservas=[]]
+
+Agenda [reservas=[Pepe para 3(5)]]
+
+Agenda [reservas=[Pepe para 3(5), Ana para 5(5)]]
+
+Agenda [reservas=[a para 3(5), b para 3(5), c para 3(5), d para 3(5), e para 3(5), f para 3(5), g para 3(5), h para 3(5), i para 3(5), j para 3(5)]]
+
+Agenda [reservas=[Pepe para 11(5)]]
+
+Agenda [reservas=[]]
+
+Agenda [reservas=[a para 5(5), b para 5(5), c para 5(5), d para 5(5), e para 5(5)]]
+
+Agenda [reservas=[]]
+
+Agenda [reservas=[a para 3(5), b para 3(5), c para 3(5), d para 3(5), e para 3(5), f para 3(5)]]
+
+Agenda [reservas=[Ana para 5(5), Pepe para 11(5)]]
+Salon 0: 5/10 []
+
+Agenda [reservas=[a para 3(5), b para 3(5), c para 3(5), d para 3(5), e para 3(5), f para 3(5), g para 3(5), h para 3(5), i para 3(5), j para 3(5)]]
+
+Agenda [reservas=[]]
+
+Agenda [reservas=[Pepe para 3(5)]]
+
+Agenda [reservas=[Pepe para 3(5), Ana para 5(5)]]
+
+Agenda [reservas=[a para 3(5), b para 3(5), c para 3(5), d para 3(5), e para 3(5), f para 3(5), g para 3(5), h para 3(5), i para 3(5), j para 3(5)]]
+
+Agenda [reservas=[Pepe para 11(5)]]
+
+Agenda [reservas=[]]
+
+Agenda [reservas=[a para 5(5), b para 5(5), c para 5(5), d para 5(5), e para 5(5)]]
+
+Agenda [reservas=[]]
+
+Agenda [reservas=[a para 3(5), b para 3(5), c para 3(5), d para 3(5), e para 3(5), f para 3(5)]]
+
+Agenda [reservas=[Ana para 5(5), Pepe para 11(5)]]
+Salon 0: 5/10 []
+
+Agenda [reservas=[a para 3(5), b para 3(5), c para 3(5), d para 3(5), e para 3(5), f para 3(5), g para 3(5), h para 3(5), i para 3(5), j para 3(5)]]
+
+Agenda [reservas=[]]
+
+Agenda [reservas=[Pepe para 3(5)]]
+
+Agenda [reservas=[Pepe para 3(5), Ana para 5(5)]]
+
+Agenda [reservas=[a para 3(5), b para 3(5), c para 3(5), d para 3(5), e para 3(5), f para 3(5), g para 3(5), h para 3(5), i para 3(5), j para 3(5)]]
+
+Agenda [reservas=[Pepe para 11(5)]]
+
+Agenda [reservas=[]]
+
+Agenda [reservas=[]]
+
+Agenda [reservas=[a para 3(5), b para 3(5), c para 3(5), d para 3(5), e para 3(5), f para 3(5)]]
+
+Agenda [reservas=[a para 5(5), b para 5(5), c para 5(5), d para 5(5), e para 5(5)]]
+
+Agenda [reservas=[Ana para 5(5), Pepe para 11(5)]]
+Salon 0: 5/10 []
+
+Agenda [reservas=[a para 3(5), b para 3(5), c para 3(5), d para 3(5), e para 3(5), f para 3(5), g para 3(5), h para 3(5), i para 3(5), j para 3(5)]]
+
+Agenda [reservas=[]]
+
+Agenda [reservas=[Pepe para 3(5)]]
+
+Cerrando puertas...
+Agenda [reservas=[Pepe para 3(5), Ana para 5(5)]]
+
+Puertas cerradas
+Cerrando salones...
+Salones cerrados
+RESTAURANTE CERRADO
